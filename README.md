@@ -8,7 +8,4 @@
 💻 Computer Science & Engineering student at Vidyavardhaka College Of Engineering.<br>⚙️ Hands-on experience with AI, IoT systems and full-stack development.<br> Product developer – building a scalable LMS platform.<br>🌱 Continuously learning and innovating at the intersection of tech and problem-solving.
 
 
-
-)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
