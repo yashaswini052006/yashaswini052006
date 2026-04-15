@@ -5,7 +5,7 @@
 <h1 align="center">Yashaswini P here!!</h1>
 
 # 💫 About Me:
-💻 Computer Science & Engineering student at Vidyavardhaka College Of Engineering.<br>⚙️ Hands-on experience with AI, IoT systems and full-stack development.<br>🚀 Product developer – building a scalable LMS platform.<br>🛰️<br>📈 <br>🌱 Continuously learning and innovating at the intersection of tech and problem-solving.
+💻 Computer Science & Engineering student at Vidyavardhaka College Of Engineering.<br>⚙️ Hands-on experience with AI, IoT systems and full-stack development.<br> Product developer – building a scalable LMS platform.<br>🌱 Continuously learning and innovating at the intersection of tech and problem-solving.
 
 
 
